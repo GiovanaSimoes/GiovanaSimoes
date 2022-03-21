@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Giovana Simões ☺
 
+ ##
 - 🌱 Me desenvolvendo em back-end
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Kotlin e Java
