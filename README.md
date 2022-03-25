@@ -1,4 +1,4 @@
-### Olá! Eu sou a Giovana Simões ☺
+### Olá! Eu sou a Giovana Simões 
 
  ##
 - 🌱 Me desenvolvendo em back-end
