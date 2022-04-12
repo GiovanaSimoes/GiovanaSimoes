@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Giovana Simões 
 
  ##
-- 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Kotlin e Java
+- Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando Kotlin e Java.
 
 <div align="center">
   <a href="https://github.com/GiovanaSimoes">
