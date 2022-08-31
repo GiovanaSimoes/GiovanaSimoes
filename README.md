@@ -1,8 +1,9 @@
-### Olá! Eu sou a Giovana Simões 
+### Hello! 🤗
 
  ##
-- Atualmente cursando Análise e Desenvolvimento de Sistemas
-- Estudando Kotlin e Java.
+- I'm living in São Paulo City - Brazil 🇧🇷
+- At the moment Backend developer working with Kotlin, studying Java, JavaScript, HTML and CSS 📚
+- Fun fact: I'm Chemistry Technique 👩🏽‍🔬
 
 <div align="center">
   <a href="https://github.com/GiovanaSimoes">
